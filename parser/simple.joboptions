@@ -1,0 +1,10 @@
+<<
+  /ASCII85EncodePages false
+  /AllowTransparency false
+  /CompatibilityLevel 1.5
+  /CompressObjects /All
+  /SomeKey (Text that we want \051to get back)
+>> setdistillerparams
+<<
+  /Hello /World
+>> customOpt

@@ -1,0 +1,1204 @@
+{
+  "setdistillerparams": {
+    "/ASCII85EncodePages": {
+      "Type": 2
+    },
+    "/AllowPSXObjects": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/AllowTransparency": {
+      "Type": 2
+    },
+    "/AlwaysEmbed": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 2,
+          "boolean": true
+        }
+      ]
+    },
+    "/AntiAliasColorImages": {
+      "Type": 2
+    },
+    "/AntiAliasGrayImages": {
+      "Type": 2
+    },
+    "/AntiAliasMonoImages": {
+      "Type": 2
+    },
+    "/AutoFilterColorImages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/AutoFilterGrayImages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/AutoPositionEPSFiles": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/AutoRotatePages": {
+      "Type": 7,
+      "literal": "/All"
+    },
+    "/Binding": {
+      "Type": 7,
+      "literal": "/Left"
+    },
+    "/CalCMYKProfile": {
+      "Type": 0,
+      "string": "fargpressen_v3.icm"
+    },
+    "/CalGrayProfile": {
+      "Type": 0,
+      "string": "Gray Gamma 2.2"
+    },
+    "/CalRGBProfile": {
+      "Type": 0,
+      "string": "sRGB IEC61966-2.1"
+    },
+    "/CannotEmbedFontPolicy": {
+      "Type": 7,
+      "literal": "/Warning"
+    },
+    "/CheckCompliance": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 7,
+          "literal": "/None"
+        }
+      ]
+    },
+    "/ColorACSImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/HSamples": {
+          "Type": 1,
+          "array": [
+            {
+              "Type": 6,
+              "integer": 2
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 2
+            }
+          ]
+        },
+        "/QFactor": {
+          "Type": 5,
+          "float": 1.3
+        },
+        "/VSamples": {
+          "Type": 1,
+          "array": [
+            {
+              "Type": 6,
+              "integer": 2
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 2
+            }
+          ]
+        }
+      }
+    },
+    "/ColorConversionStrategy": {
+      "Type": 7,
+      "literal": "/sRGB"
+    },
+    "/ColorImageAutoFilterStrategy": {
+      "Type": 7,
+      "literal": "/JPEG"
+    },
+    "/ColorImageDepth": {
+      "Type": 6,
+      "integer": -1
+    },
+    "/ColorImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/HSamples": {
+          "Type": 1,
+          "array": [
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            }
+          ]
+        },
+        "/QFactor": {
+          "Type": 5,
+          "float": 0.15
+        },
+        "/VSamples": {
+          "Type": 1,
+          "array": [
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            }
+          ]
+        }
+      }
+    },
+    "/ColorImageDownsampleThreshold": {
+      "Type": 5,
+      "float": 1.5
+    },
+    "/ColorImageDownsampleType": {
+      "Type": 7,
+      "literal": "/Bicubic"
+    },
+    "/ColorImageFilter": {
+      "Type": 7,
+      "literal": "/DCTEncode"
+    },
+    "/ColorImageMinDownsampleDepth": {
+      "Type": 6,
+      "integer": 1
+    },
+    "/ColorImageMinResolution": {
+      "Type": 6,
+      "integer": 100
+    },
+    "/ColorImageMinResolutionPolicy": {
+      "Type": 7,
+      "literal": "/OK"
+    },
+    "/ColorImageResolution": {
+      "Type": 6,
+      "integer": 100
+    },
+    "/ColorSettingsFile": {
+      "Type": 0
+    },
+    "/CompatibilityLevel": {
+      "Type": 5,
+      "float": 1.5
+    },
+    "/CompressObjects": {
+      "Type": 7,
+      "literal": "/All"
+    },
+    "/CompressPages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/ConvertImagesToIndexed": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/CreateJDFFile": {
+      "Type": 2
+    },
+    "/CreateJobTicket": {
+      "Type": 2
+    },
+    "/CropColorImages": {
+      "Type": 2
+    },
+    "/CropGrayImages": {
+      "Type": 2
+    },
+    "/CropMonoImages": {
+      "Type": 2
+    },
+    "/DSCReportingLevel": {
+      "Type": 6
+    },
+    "/DefaultRenderingIntent": {
+      "Type": 7,
+      "literal": "/Default"
+    },
+    "/Description": {
+      "Type": 4,
+      "dictionary": {
+        "/ARA": {
+          "Type": 3,
+          "binary": "/v8GJwYzBioGLgYvBkUAIAZHBjAGRwAgBicGRAYlBjkGLwYnBi8GJwYqACAGRAYlBkYGNAYnBiEAIAZIBisGJwYmBkIAIABBAGQAbwBiAGUAIABQAEQARgAgBkUGKgZIBicGQQZCBikAIAZEBkQGOQYxBjYAIAY5BkQGSQAgBicGRAY0BicGNAYpACAGSAZFBkYAIAYuBkQGJwZEACAGMQYzBicGJgZEACAGJwZEBigGMQZKBi8AIAYnBkQGJQZEBkMGKgYxBkgGRgZKACAGSAZFBkYAIAYuBkQGJwZEACAGNQZBBi0GJwYqACAGJwZEBkgGSgYoBhsAIAZKBkUGQwZGACAGQQYqBi0AIAZIBisGJwYmBkIAIABQAEQARgAgBicGRAZFBkYGNAYjBikAIAYoBicGMwYqBi4GLwYnBkUAIABBAGMAcgBvAGIAYQB0ACAGSABBAGQAbwBiAGUAIABSAGUAYQBkAGUAcgAgBiUGNQYvBicGMQAgADYALgAwACAGSAYnBkQGJQY1Bi8GJwYxBicGKgAgBicGRAYjBi0GLwYrAC4="
+        },
+        "/BGR": {
+          "Type": 3,
+          "binary": "/v8EGAQ3BD8EPgQ7BDcEMgQwBDkEQgQ1ACAEQgQ1BDcEOAAgBD0EMARBBEIEQAQ+BDkEOgQ4ACwAIAQ3BDAAIAQ0BDAAIARBBEoENwQ0BDAEMgQwBEIENQAgAEEAZABvAGIAZQAgAFAARABGACAENAQ+BDoEQwQ8BDUEPQRCBDgALAAgBDwEMAQ6BEEEOAQ8BDAEOwQ9BD4AIAQ/BEAEOAQzBD4ENAQ1BD0EOAAgBDcEMAAgBD8EPgQ6BDAENwQyBDAEPQQ1ACAEPQQwACAENQQ6BEAEMAQ9BDAALAAgBDUEOwQ1BDoEQgRABD4EPQQ9BDAAIAQ/BD4ESQQwACAEOAAgBBgEPQRCBDUEQAQ9BDUEQgAuACAAIAQhBEoENwQ0BDAENAQ1BD0EOARCBDUAIABQAEQARgAgBDQEPgQ6BEMEPAQ1BD0EQgQ4ACAEPAQ+BDMEMARCACAENAQwACAEQQQ1ACAEPgRCBDIEMARABE8EQgAgBEEAIABBAGMAcgBvAGIAYQB0ACAEOAAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIAQ4ACAEQQQ7BDUENAQyBDAESQQ4ACAEMgQ1BEAEQQQ4BDgALg=="
+        },
+        "/CHS": {
+          "Type": 3,
+          "binary": "/v9Pf3Uoj9lOm4u+W5pSG176doQAIABBAGQAbwBiAGUAIABQAEQARgAgZYdoY5ACdShOjlxPXlVmPnk6MAGQGo/HdTVbUJCuTvZT0ZABTuVTypAaj8dW4HJ5f1FT0V4DMAJgqFPvTuVPf3UoACAAQQBjAHIAbwBiAGEAdAAgVIwAIABBAGQAbwBiAGUAIABSAGUAYQBkAGUAcgAgADYALgAwACBO5VPKZvSa2HJIZyxnZWJTXwBSG176doQAIABQAEQARgAgZYdoYzAC"
+        },
+        "/CHT": {
+          "Type": 3,
+          "binary": "/v9Pf3UokBlOm4otf25e+nrLdoQAIABBAGQAbwBiAGUAIABQAEQARgAgZYdO9pBpdShlvIeiXlWYb3k6MAGQGpBOlvtbUJD1TvZQs5ABTuVTylcofbKWm32yje9OCnZ8XgMwAmCoU+9O5U9/dSgAIABBAGMAcgBvAGIAYQB0ACBUjAAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIE7lU8pm9JrYckhnLE+GlYtVX13yXvp6y3aEACAAUABEAEYAIGWHTvYwAg=="
+        },
+        "/CZE": {
+          "Type": 3,
+          "binary": "/v8AVABhAHQAbwAgAG4AYQBzAHQAYQB2AGUAbgDtACAAcABvAHUBfgBpAGoAdABlACAAawAgAHYAeQB0AHYA4QFZAGUAbgDtACAAZABvAGsAdQBtAGUAbgB0AW8AIABBAGQAbwBiAGUAIABQAEQARgAsACAAawB0AGUAcgDpACAAcwBlACAAbgBlAGoAbADpAHAAZQAgAGgAbwBkAO0AIABwAHIAbwAgAHoAbwBiAHIAYQB6AG8AdgDhAG4A7QAgAG4AYQAgAG8AYgByAGEAegBvAHYAYwBlACwAIABwAG8AcwDtAGwA4QBuAO0AIABlAC0AbQBhAGkAbABlAG0AIABhACAAcAByAG8AIABpAG4AdABlAHIAbgBlAHQALgAgACAAVgB5AHQAdgBvAVkAZQBuAOkAIABkAG8AawB1AG0AZQBuAHQAeQAgAFAARABGACAAYgB1AGQAZQAgAG0AbwF+AG4A6QAgAG8AdABlAHYBWQDtAHQAIAB2ACAAcAByAG8AZwByAGEAbQBlAGMAaAAgAEEAYwByAG8AYgBhAHQAIABhACAAQQBkAG8AYgBlACAAUgBlAGEAZABlAHIAIAA2AC4AMAAgAGEAIABuAG8AdgEbAGoBYQDtAGMAaAAu"
+        },
+        "/DAN": {
+          "Type": 3,
+          "binary": "/v8AQgByAHUAZwAgAGkAbgBkAHMAdABpAGwAbABpAG4AZwBlAHIAbgBlACAAdABpAGwAIABhAHQAIABvAHAAcgBlAHQAdABlACAAQQBkAG8AYgBlACAAUABEAEYALQBkAG8AawB1AG0AZQBuAHQAZQByACwAIABkAGUAcgAgAGIAZQBkAHMAdAAgAGUAZwBuAGUAcgAgAHMAaQBnACAAdABpAGwAIABzAGsA5gByAG0AdgBpAHMAbgBpAG4AZwAsACAAZQAtAG0AYQBpAGwAIABvAGcAIABpAG4AdABlAHIAbgBlAHQALgAgAEQAZQAgAG8AcAByAGUAdAB0AGUAZABlACAAUABEAEYALQBkAG8AawB1AG0AZQBuAHQAZQByACAAawBhAG4AIADlAGIAbgBlAHMAIABpACAAQQBjAHIAbwBiAGEAdAAgAGUAbABsAGUAcgAgAEEAYwByAG8AYgBhAHQAIABSAGUAYQBkAGUAcgAgADYALgAwACAAbwBnACAAbgB5AGUAcgBlAC4="
+        },
+        "/DEU": {
+          "Type": 3,
+          "binary": "/v8AVgBlAHIAdwBlAG4AZABlAG4AIABTAGkAZQAgAGQAaQBlAHMAZQAgAEUAaQBuAHMAdABlAGwAbAB1AG4AZwBlAG4AIAB6AHUAbQAgAEUAcgBzAHQAZQBsAGwAZQBuACAAdgBvAG4AIABBAGQAbwBiAGUAIABQAEQARgAtAEQAbwBrAHUAbQBlAG4AdABlAG4ALAAgAGQAaQBlACAAZgD8AHIAIABkAGkAZQAgAEIAaQBsAGQAcwBjAGgAaQByAG0AYQBuAHoAZQBpAGcAZQAsACAARQAtAE0AYQBpAGwAIABvAGQAZQByACAAZABhAHMAIABJAG4AdABlAHIAbgBlAHQAIAB2AGUAcgB3AGUAbgBkAGUAdAAgAHcAZQByAGQAZQBuACAAcwBvAGwAbABlAG4ALgAgAEUAcgBzAHQAZQBsAGwAdABlACAAUABEAEYALQBEAG8AawB1AG0AZQBuAHQAZQAgAGsA9gBuAG4AZQBuACAAbQBpAHQAIABBAGMAcgBvAGIAYQB0ACAAdQBuAGQAIABBAGQAbwBiAGUAIABSAGUAYQBkAGUAcgAgADYALgAwACAAbwBkAGUAcgAgAGgA9gBoAGUAcgAgAGcAZQD2AGYAZgBuAGUAdAAgAHcAZQByAGQAZQBuAC4="
+        },
+        "/ENU": {
+          "Type": 0,
+          "string": "Use these settings to create Adobe PDF documents best suited for on-screen display, e-mail, and the Internet.  Created PDF documents can be opened with Acrobat and Adobe Reader 6.0 and later."
+        },
+        "/ESP": {
+          "Type": 3,
+          "binary": "/v8AVQB0AGkAbABpAGMAZQAgAGUAcwB0AGEAIABjAG8AbgBmAGkAZwB1AHIAYQBjAGkA8wBuACAAcABhAHIAYQAgAGMAcgBlAGEAcgAgAGQAbwBjAHUAbQBlAG4AdABvAHMAIABQAEQARgAgAGQAZQAgAEEAZABvAGIAZQAgAGEAZABlAGMAdQBhAGQAbwBzACAAcABhAHIAYQAgAHYAaQBzAHUAYQBsAGkAegBhAGMAaQDzAG4AIABlAG4AIABwAGEAbgB0AGEAbABsAGEALAAgAGMAbwByAHIAZQBvACAAZQBsAGUAYwB0AHIA8wBuAGkAYwBvACAAZQAgAEkAbgB0AGUAcgBuAGUAdAAuACAAUwBlACAAcAB1AGUAZABlAG4AIABhAGIAcgBpAHIAIABkAG8AYwB1AG0AZQBuAHQAbwBzACAAUABEAEYAIABjAHIAZQBhAGQAbwBzACAAYwBvAG4AIABBAGMAcgBvAGIAYQB0ACwAIABBAGQAbwBiAGUAIABSAGUAYQBkAGUAcgAgADYALgAwACAAeQAgAHYAZQByAHMAaQBvAG4AZQBzACAAcABvAHMAdABlAHIAaQBvAHIAZQBzAC4="
+        },
+        "/ETI": {
+          "Type": 3,
+          "binary": "/v8ASwBhAHMAdQB0AGEAZwBlACAAbgBlAGkAZAAgAHMA5AB0AHQAZQBpAGQAIABzAGUAbABsAGkAcwB0AGUAIABBAGQAbwBiAGUAIABQAEQARgAtAGQAbwBrAHUAbQBlAG4AdABpAGQAZQAgAGwAbwBvAG0AaQBzAGUAawBzACwAIABtAGkAcwAgAHMAbwBiAGkAdgBhAGQAIABrAPUAaQBnAGUAIABwAGEAcgBlAG0AaQBuAGkAIABlAGsAcgBhAGEAbgBpAGwAIABrAHUAdgBhAG0AaQBzAGUAawBzACwAIABlAC0AcABvAHMAdABpAGcAYQAgAHMAYQBhAHQAbQBpAHMAZQBrAHMAIABqAGEAIABJAG4AdABlAHIAbgBlAHQAaQBzACAAYQB2AGEAbABkAGEAbQBpAHMAZQBrAHMALgAgACAATABvAG8AZAB1AGQAIABQAEQARgAtAGQAbwBrAHUAbQBlAG4AdABlACAAcwBhAGEAdABlACAAYQB2AGEAZABhACAAcAByAG8AZwByAGEAbQBtAGkAZABlAGcAYQAgAEEAYwByAG8AYgBhAHQAIABuAGkAbgBnACAAQQBkAG8AYgBlACAAUgBlAGEAZABlAHIAIAA2AC4AMAAgAGoAYQAgAHUAdQBlAG0AYQB0AGUAIAB2AGUAcgBzAGkAbwBvAG4AaQBkAGUAZwBhAC4="
+        },
+        "/FRA": {
+          "Type": 3,
+          "binary": "/v8AVQB0AGkAbABpAHMAZQB6ACAAYwBlAHMAIABvAHAAdABpAG8AbgBzACAAYQBmAGkAbgAgAGQAZQAgAGMAcgDpAGUAcgAgAGQAZQBzACAAZABvAGMAdQBtAGUAbgB0AHMAIABBAGQAbwBiAGUAIABQAEQARgAgAGQAZQBzAHQAaQBuAOkAcwAgAOAAIABJAG4AdABlAHIAbgBlAHQALAAgAOAAIADqAHQAcgBlACAAYQBmAGYAaQBjAGgA6QBzACAA4AAgAGwAJwDpAGMAcgBhAG4AIABlAHQAIADgACAA6gB0AHIAZQAgAGUAbgB2AG8AeQDpAHMAIABwAGEAcgAgAG0AZQBzAHMAYQBnAGUAcgBpAGUALgAgAEwAZQBzACAAZABvAGMAdQBtAGUAbgB0AHMAIABQAEQARgAgAGMAcgDpAOkAcwAgAHAAZQB1AHYAZQBuAHQAIADqAHQAcgBlACAAbwB1AHYAZQByAHQAcwAgAGQAYQBuAHMAIABBAGMAcgBvAGIAYQB0ACwAIABhAGkAbgBzAGkAIABxAHUAJwBBAGQAbwBiAGUAIABSAGUAYQBkAGUAcgAgADYALgAwACAAZQB0ACAAdgBlAHIAcwBpAG8AbgBzACAAdQBsAHQA6QByAGkAZQB1AHIAZQBzAC4="
+        },
+        "/GRE": {
+          "Type": 3,
+          "binary": "/v8DpwPBA7cDwwO5A7wDvwPAA78DuQOuA8MDxAO1ACADsQPFA8QDrQPCACADxAO5A8IAIAPBA8UDuAO8A68DwwO1A7kDwgAgA7MDuQOxACADvQOxACADtAO3A7wDuQO/A8UDwQOzA64DwwO1A8QDtQAgA60DswOzA8EDsQPGA7EAIABBAGQAbwBiAGUAIABQAEQARgAgA8ADvwPFACADtQOvA70DsQO5ACADugOxA8QgGQAgA7UDvgO/A8cDrgO9ACADugOxA8QDrAO7A7sDtwO7A7EAIAOzA7kDsQAgA8ADsQPBA78DxQPDA68DsQPDA7cAIAPDA8QDtwO9ACADvwO4A8wDvQO3ACwAIAOzA7kDsQAgAGUALQBtAGEAaQBsACwAIAO6A7EDuQAgA7MDuQOxACADxAO/ACADlAO5A7EALQO0A68DugPEA8UDvwAuACAAIAOkA7EAIABQAEQARgAgA60DswOzA8EDsQPGA7EAIAPAA78DxQAgA60DxwO1A8QDtQAgA7QDtwO8A7kDvwPFA8EDswOuA8MDtQO5ACADvAPAA78DwQO/A80DvQAgA70DsQAgA7EDvQO/A7kDxwPEA78DzQO9ACADvAO1ACADxAO/ACAAQQBjAHIAbwBiAGEAdAAsACADxAO/ACAAQQBkAG8AYgBlACAAUgBlAGEAZABlAHIAIAA2AC4AMAAgA7oDsQO5ACADvAO1A8QDsQOzA7UDvQOtA8MDxAO1A8EDtQPCACADtQO6A7QDzAPDA7UDuQPCAC4="
+        },
+        "/HEB": {
+          "Type": 3,
+          "binary": "/v8F1AXpBeoF3gXpBdUAIAXRBdQF0gXTBegF1QXqACAF0AXcBdQAIAXbBdMF2QAgBdwF2QXmBdUF6AAgBd4F4QXeBdsF2QAgAEEAZABvAGIAZQAgAFAARABGACAF1AXeBdUF6gXQBd4F2QXdACAF3AXqBeYF1QXSBeoAIAXeBeEF2gAsACAF0wXVBdAF6AAgBdAF3AXnBdgF6AXVBeAF2QAgBdUF1AXQBdkF4AXYBegF4AXYAC4AIAXeBeEF3gXbBdkAIABQAEQARgAgBekF4AXVBeYF6AXVACAF4AXZBeoF4AXZBd0AIAXcBeQF6gXZBdcF1AAgBdEF0AXeBeYF4gXVBeoAIABBAGMAcgBvAGIAYQB0ACAF1QAtAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIAXVBdIF6AXhBdAF1QXqACAF3gXqBecF0wXeBdUF6gAgBdkF1QXqBegALgAtADMALAAgBeIF2QXZBeAF1QAgBdEF3gXTBegF2QXaACAF3AXeBekF6gXeBekAIAXpBdwAIABBAGMAcgBvAGIAYQB0AC4AIAXeBeEF3gXbBdkAIABQAEQARgAgBekF4AXVBeYF6AXVACAF4AXZBeoF4AXZBd0AIAXcBeQF6gXZBdcF1AAgBdEF0AXeBeYF4gXVBeoAIABBAGMAcgBvAGIAYQB0ACAF1QAtAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIAXVBdIF6AXhBdAF1QXqACAF3gXqBecF0wXeBdUF6gAgBdkF1QXqBegALg=="
+        },
+        "/HRV": {
+          "Type": 3,
+          "binary": "/v8AWgBhACAAcwB0AHYAYQByAGEAbgBqAGUAIABQAEQARgAgAGQAbwBrAHUAbQBlAG4AYQB0AGEAIABuAGEAagBwAG8AZwBvAGQAbgBpAGoAaQBoACAAegBhACAAcAByAGkAawBhAHoAIABuAGEAIAB6AGEAcwBsAG8AbgB1ACwAIABlAC0AcABvAWEAdABpACAAaQAgAEkAbgB0AGUAcgBuAGUAdAB1ACAAawBvAHIAaQBzAHQAaQB0AGUAIABvAHYAZQAgAHAAbwBzAHQAYQB2AGsAZQAuACAAIABTAHQAdgBvAHIAZQBuAGkAIABQAEQARgAgAGQAbwBrAHUAbQBlAG4AdABpACAAbQBvAGcAdQAgAHMAZQAgAG8AdAB2AG8AcgBpAHQAaQAgAEEAYwByAG8AYgBhAHQAIABpACAAQQBkAG8AYgBlACAAUgBlAGEAZABlAHIAIAA2AC4AMAAgAGkAIABrAGEAcwBuAGkAagBpAG0AIAB2AGUAcgB6AGkAagBhAG0AYQAu"
+        },
+        "/HUN": {
+          "Type": 3,
+          "binary": "/v8AQQAgAGsA6QBwAGUAcgBuAHkBUQBuACAAbQBlAGcAagBlAGwAZQBuAO0AdADpAHMAaABlAHoALAAgAGUALQBtAGEAaQBsACAA/AB6AGUAbgBlAHQAZQBrAGIAZQBuACAA6QBzACAAIABJAG4AdABlAHIAbgBlAHQAZQBuACAAaABhAHMAegBuAOEAbABhAHQAbgBhAGsAIABsAGUAZwBpAG4AawDhAGIAYgAgAG0AZQBnAGYAZQBsAGUAbAFRACAAQQBkAG8AYgBlACAAUABEAEYAIABkAG8AawB1AG0AZQBuAHQAdQBtAG8AawBhAHQAIABlAHoAZQBrAGsAZQBsACAAYQAgAGIAZQDhAGwAbADtAHQA4QBzAG8AawBrAGEAbAAgAGsA6QBzAHoA7QB0AGgAZQB0AC4AIAAgAEEAIABsAOkAdAByAGUAaABvAHoAbwB0AHQAIABQAEQARgAgAGQAbwBrAHUAbQBlAG4AdAB1AG0AbwBrACAAYQB6ACAAQQBjAHIAbwBiAGEAdAAgAOkAcwAgAGEAegAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAALAAgAHYAYQBnAHkAIABhAHoAIABhAHQAdADzAGwAIABrAOkAcwFRAGIAYgBpACAAdgBlAHIAegBpAPMAawBrAGEAbAAgAG4AeQBpAHQAaABhAHQA8wBrACAAbQBlAGcALg=="
+        },
+        "/ITA": {
+          "Type": 3,
+          "binary": "/v8AVQB0AGkAbABpAHoAegBhAHIAZQAgAHEAdQBlAHMAdABlACAAaQBtAHAAbwBzAHQAYQB6AGkAbwBuAGkAIABwAGUAcgAgAGMAcgBlAGEAcgBlACAAZABvAGMAdQBtAGUAbgB0AGkAIABBAGQAbwBiAGUAIABQAEQARgAgAHAAaQD5ACAAYQBkAGEAdAB0AGkAIABwAGUAcgAgAGwAYQAgAHYAaQBzAHUAYQBsAGkAegB6AGEAegBpAG8AbgBlACAAcwB1ACAAcwBjAGgAZQByAG0AbwAsACAAbABhACAAcABvAHMAdABhACAAZQBsAGUAdAB0AHIAbwBuAGkAYwBhACAAZQAgAEkAbgB0AGUAcgBuAGUAdAAuACAASQAgAGQAbwBjAHUAbQBlAG4AdABpACAAUABEAEYAIABjAHIAZQBhAHQAaQAgAHAAbwBzAHMAbwBuAG8AIABlAHMAcwBlAHIAZQAgAGEAcABlAHIAdABpACAAYwBvAG4AIABBAGMAcgBvAGIAYQB0ACAAZQAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIABlACAAdgBlAHIAcwBpAG8AbgBpACAAcwB1AGMAYwBlAHMAcwBpAHYAZQAu"
+        },
+        "/JPN": {
+          "Type": 3,
+          "binary": "/v91O5diTgowZzBuiGh5OjABMH4wXzBvlvtbUDDhMPww6zCEMKQw8zC/MPwwzTDDMMh9THUxMGeQAU/hMFkwizBfMIEwbgAgAEEAZABvAGIAZQAgAFAARABGACBlh2b4MG5PXGIQMGuQaTBXMGYwRDB+MFkwAjBTMG6KLVuaMGdPXGIQMFUwjDBfACAAUABEAEYAIDDVMKEwpDDrMG8wAQBBAGMAcgBvAGIAYQB0ACAwSjCIMHMAIABBAGQAbwBiAGUAIABSAGUAYQBkAGUAcgAgADYALgAwACBO5ZZNMGeVizBPMFMwaDBMMGcwTTB+MFkwAjBTMG6KLVuaMGcwbzDVMKkw8zDIMG5XyzCBj7wwfzCSiEwwajCPMFowATDVMKEwpDDrMLUwpDC6MG9nAFwPllAwazBqMIowfjBZMAI="
+        },
+        "/KOR": {
+          "Type": 3,
+          "binary": "/v/HdAAgwSTIFcdEACDArMap1VjF7AAg1lS6dAAg1FzC3AAsACDIBMeQACC6VMd8ACwAIMd40TCxN8XQACCsAMelACDIAdVp1VwAIABBAGQAbwBiAGUAIABQAEQARgAguzjBHLl8ACDHkcEx1WmyyLLkAC4AIMd0uAesjAAgx5HBMbQcACAAUABEAEYAILs4wRyylAAgAEEAYwByAG8AYgBhAHQAILwPACAAQQBkAG8AYgBlACAAUgBlAGEAZABlAHIAIAA2AC4AMAAgx3TAwcXQwRwAIMX0ACDCGAAgx4jCtbLIsuQALg=="
+        },
+        "/LTH": {
+          "Type": 3,
+          "binary": "/v8ATgBhAHUAZABvAGsAaQB0AGUAIAFhAGkAdQBvAHMAIABwAGEAcgBhAG0AZQB0AHIAdQBzACAAbgBvAHIBFwBkAGEAbQBpACAAawB1AHIAdABpACAAQQBkAG8AYgBlACAAUABEAEYAIABkAG8AawB1AG0AZQBuAHQAdQBzACwAIABrAHUAcgBpAGUAIABsAGEAYgBpAGEAdQBzAGkAYQBpACAAcAByAGkAdABhAGkAawB5AHQAaQAgAHIAbwBkAHkAdABpACAAZQBrAHIAYQBuAGUALAAgAGUAbAAuACAAcABhAWEAdAB1AGkAIABhAHIAIABpAG4AdABlAHIAbgBlAHQAdQBpAC4AIAAgAFMAdQBrAHUAcgB0AGkAIABQAEQARgAgAGQAbwBrAHUAbQBlAG4AdABhAGkAIABnAGEAbABpACAAYgFrAHQAaQAgAGEAdABpAGQAYQByAG8AbQBpACAAQQBjAHIAbwBiAGEAdAAgAGkAcgAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIABhAHIAIAB2ARcAbABlAHMAbgEXAG0AaQBzACAAdgBlAHIAcwBpAGoAbwBtAGkAcwAu"
+        },
+        "/LVI": {
+          "Type": 3,
+          "binary": "/v8ASQB6AG0AYQBuAHQAbwBqAGkAZQB0ACABYQBvAHMAIABpAGUAcwB0AGEAdAErAGoAdQBtAHUAcwAsACAAbABhAGkAIAB2AGUAaQBkAG8AdAB1ACAAQQBkAG8AYgBlACAAUABEAEYAIABkAG8AawB1AG0AZQBuAHQAdQBzACwAIABrAGEAcwAgAGkAcgAgASsAcABhAWEAaQAgAHAAaQBlAG0BEwByAG8AdABpACAAcgEBAGQBKwFhAGEAbgBhAGkAIABlAGsAcgEBAG4BAQAsACAAZQAtAHAAYQBzAHQAYQBtACAAdQBuACAAaQBuAHQAZQByAG4AZQB0AGEAbQAuACAASQB6AHYAZQBpAGQAbwBqAGkAZQB0ACAAUABEAEYAIABkAG8AawB1AG0AZQBuAHQAdQBzACwAIABrAG8AIAB2AGEAcgAgAGEAdAB2ARMAcgB0ACAAYQByACAAQQBjAHIAbwBiAGEAdAAgAHUAbgAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAALAAgAGsBAQAgAGEAcgErACAAdABvACAAagBhAHUAbgEBAGsBAQBtACAAdgBlAHIAcwBpAGoBAQBtAC4="
+        },
+        "/NLD": {
+          "Type": 0,
+          "string": "Gebruik deze instellingen om Adobe PDF-documenten te maken die zijn geoptimaliseerd voor weergave op een beeldscherm, e-mail en internet. De gemaakte PDF-documenten kunnen worden geopend met Acrobat en Adobe Reader 6.0 en hoger."
+        },
+        "/NOR": {
+          "Type": 3,
+          "binary": "/v8AQgByAHUAawAgAGQAaQBzAHMAZQAgAGkAbgBuAHMAdABpAGwAbABpAG4AZwBlAG4AZQAgAHQAaQBsACAA5QAgAG8AcABwAHIAZQB0AHQAZQAgAEEAZABvAGIAZQAgAFAARABGAC0AZABvAGsAdQBtAGUAbgB0AGUAcgAgAHMAbwBtACAAZQByACAAYgBlAHMAdAAgAGUAZwBuAGUAdAAgAGYAbwByACAAcwBrAGoAZQByAG0AdgBpAHMAbgBpAG4AZwAsACAAZQAtAHAAbwBzAHQAIABvAGcAIABJAG4AdABlAHIAbgBlAHQAdAAuACAAUABEAEYALQBkAG8AawB1AG0AZQBuAHQAZQBuAGUAIABrAGEAbgAgAOUAcABuAGUAcwAgAGkAIABBAGMAcgBvAGIAYQB0ACAAZQBsAGwAZQByACAAQQBkAG8AYgBlACAAUgBlAGEAZABlAHIAIAA2AC4AMAAgAGUAbABsAGUAcgAgAHMAZQBuAGUAcgBlAC4="
+        },
+        "/POL": {
+          "Type": 3,
+          "binary": "/v8AVQBzAHQAYQB3AGkAZQBuAGkAYQAgAGQAbwAgAHQAdwBvAHIAegBlAG4AaQBhACAAZABvAGsAdQBtAGUAbgB0APMAdwAgAFAARABGACAAcAByAHoAZQB6AG4AYQBjAHoAbwBuAHkAYwBoACAAZABvACAAdwB5AVsAdwBpAGUAdABsAGEAbgBpAGEAIABuAGEAIABlAGsAcgBhAG4AaQBlACwAIAB3AHkAcwB5AUIAYQBuAGkAYQAgAHAAbwBjAHoAdAEFACAAZQBsAGUAawB0AHIAbwBuAGkAYwB6AG4BBQAgAG8AcgBhAHoAIABkAGwAYQAgAGkAbgB0AGUAcgBuAGUAdAB1AC4AIAAgAEQAbwBrAHUAbQBlAG4AdAB5ACAAUABEAEYAIABtAG8BfABuAGEAIABvAHQAdwBpAGUAcgBhAQcAIAB3ACAAcAByAG8AZwByAGEAbQBpAGUAIABBAGMAcgBvAGIAYQB0ACAAaQAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIABpACAAbgBvAHcAcwB6AHkAbQAu"
+        },
+        "/PTB": {
+          "Type": 3,
+          "binary": "/v8AVQB0AGkAbABpAHoAZQAgAGUAcwBzAGEAcwAgAGMAbwBuAGYAaQBnAHUAcgBhAOcA9QBlAHMAIABkAGUAIABmAG8AcgBtAGEAIABhACAAYwByAGkAYQByACAAZABvAGMAdQBtAGUAbgB0AG8AcwAgAEEAZABvAGIAZQAgAFAARABGACAAbQBhAGkAcwAgAGEAZABlAHEAdQBhAGQAbwBzACAAcABhAHIAYQAgAGUAeABpAGIAaQDnAOMAbwAgAG4AYQAgAHQAZQBsAGEALAAgAHAAYQByAGEAIABlAC0AbQBhAGkAbABzACAAZQAgAHAAYQByAGEAIABhACAASQBuAHQAZQByAG4AZQB0AC4AIABPAHMAIABkAG8AYwB1AG0AZQBuAHQAbwBzACAAUABEAEYAIABjAHIAaQBhAGQAbwBzACAAcABvAGQAZQBtACAAcwBlAHIAIABhAGIAZQByAHQAbwBzACAAYwBvAG0AIABvACAAQQBjAHIAbwBiAGEAdAAgAGUAIABvACAAQQBkAG8AYgBlACAAUgBlAGEAZABlAHIAIAA2AC4AMAAgAGUAIAB2AGUAcgBzAPUAZQBzACAAcABvAHMAdABlAHIAaQBvAHIAZQBzAC4="
+        },
+        "/RUM": {
+          "Type": 3,
+          "binary": "/v8AVQB0AGkAbABpAHoAYQFjAGkAIABhAGMAZQBzAHQAZQAgAHMAZQB0AQMAcgBpACAAcABlAG4AdAByAHUAIABhACAAYwByAGUAYQAgAGQAbwBjAHUAbQBlAG4AdABlACAAQQBkAG8AYgBlACAAUABEAEYAIABhAGQAZQBjAHYAYQB0AGUAIABwAGUAbgB0AHIAdQAgAGEAZgBpAV8AYQByAGUAYQAgAHAAZQAgAGUAYwByAGEAbgAsACAAdAByAGkAbQBpAHQAZQByAGUAYQAgAHAAcgBpAG4AIABlAC0AbQBhAGkAbAAgAV8AaQAgAHAAZQBuAHQAcgB1ACAASQBuAHQAZQByAG4AZQB0AC4AIAAgAEQAbwBjAHUAbQBlAG4AdABlAGwAZQAgAFAARABGACAAYwByAGUAYQB0AGUAIABwAG8AdAAgAGYAaQAgAGQAZQBzAGMAaABpAHMAZQAgAGMAdQAgAEEAYwByAG8AYgBhAHQALAAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIAFfAGkAIAB2AGUAcgBzAGkAdQBuAGkAbABlACAAdQBsAHQAZQByAGkAbwBhAHIAZQAu"
+        },
+        "/RUS": {
+          "Type": 3,
+          "binary": "/v8EGARBBD8EPgQ7BEwENwRDBDkEQgQ1ACAENAQwBD0EPQRLBDUAIAQ9BDAEQQRCBEAEPgQ5BDoEOAAgBDQEOwRPACAEQQQ+BDcENAQwBD0EOARPACAENAQ+BDoEQwQ8BDUEPQRCBD4EMgAgAEEAZABvAGIAZQAgAFAARABGACwAIAQ8BDAEOgRBBDgEPAQwBDsETAQ9BD4AIAQ/BD4ENARFBD4ENARPBEkEOARFACAENAQ7BE8AIARNBDoEQAQwBD0EPQQ+BDMEPgAgBD8EQAQ+BEEEPAQ+BEIEQAQwACwAIAQ/BDUEQAQ1BEEESwQ7BDoEOAAgBD8EPgAgBE0EOwQ1BDoEQgRABD4EPQQ9BD4EOQAgBD8EPgRHBEIENQAgBDgAIARABDAENwQ8BDUESQQ1BD0EOARPACAEMgAgBBgEPQRCBDUEQAQ9BDUEQgQ1AC4AIAAgBCEEPgQ3BDQEMAQ9BD0ESwQ1ACAAUABEAEYALQQ0BD4EOgRDBDwENQQ9BEIESwAgBDwEPgQ2BD0EPgAgBD4EQgQ6BEAESwQyBDAEQgRMACAEQQAgBD8EPgQ8BD4ESQRMBE4AIABBAGMAcgBvAGIAYQB0ACAEOAAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIAQ4ACAEMQQ+BDsENQQ1ACAEPwQ+BDcENAQ9BDgERQAgBDIENQRABEEEOAQ5AC4="
+        },
+        "/SKY": {
+          "Type": 3,
+          "binary": "/v8AVABpAGUAdABvACAAbgBhAHMAdABhAHYAZQBuAGkAYQAgAHAAbwB1AX4AaQB0AGUAIABuAGEAIAB2AHkAdAB2AOEAcgBhAG4AaQBlACAAZABvAGsAdQBtAGUAbgB0AG8AdgAgAEEAZABvAGIAZQAgAFAARABGACwAIABrAHQAbwByAOkAIABzAGEAIABuAGEAagBsAGUAcAFhAGkAZQAgAGgAbwBkAGkAYQAgAG4AYQAgAHoAbwBiAHIAYQB6AG8AdgBhAG4AaQBlACAAbgBhACAAbwBiAHIAYQB6AG8AdgBrAGUALAAgAHAAbwBzAGkAZQBsAGEAbgBpAGUAIABlAC0AbQBhAGkAbABvAG0AIABhACAAbgBhACAASQBuAHQAZQByAG4AZQB0AC4AIABWAHkAdAB2AG8AcgBlAG4A6QAgAGQAbwBrAHUAbQBlAG4AdAB5ACAAUABEAEYAIABiAHUAZABlACAAbQBvAX4AbgDpACAAbwB0AHYAbwByAGkBZQAgAHYAIABwAHIAbwBnAHIAYQBtAG8AYwBoACAAQQBjAHIAbwBiAGEAdAAgAGEAIABBAGQAbwBiAGUAIABSAGUAYQBkAGUAcgAgADYALgAwACAAYQAgAG4AbwB2AWEA7QBjAGgALg=="
+        },
+        "/SLV": {
+          "Type": 3,
+          "binary": "/v8AVABlACAAbgBhAHMAdABhAHYAaQB0AHYAZQAgAHUAcABvAHIAYQBiAGkAdABlACAAegBhACAAdQBzAHQAdgBhAHIAagBhAG4AagBlACAAZABvAGsAdQBtAGUAbgB0AG8AdgAgAEEAZABvAGIAZQAgAFAARABGACwAIABrAGkAIABzAG8AIABuAGEAagBwAHIAaQBtAGUAcgBuAGUAagFhAGkAIAB6AGEAIABwAHIAaQBrAGEAegAgAG4AYQAgAHoAYQBzAGwAbwBuAHUALAAgAGUALQBwAG8BYQB0AG8AIABpAG4AIABpAG4AdABlAHIAbgBlAHQALgAgACAAVQBzAHQAdgBhAHIAagBlAG4AZQAgAGQAbwBrAHUAbQBlAG4AdABlACAAUABEAEYAIABqAGUAIABtAG8AZwBvAQ0AZQAgAG8AZABwAHIAZQB0AGkAIAB6ACAAQQBjAHIAbwBiAGEAdAAgAGkAbgAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAIABpAG4AIABuAG8AdgBlAGoBYQBpAG0ALg=="
+        },
+        "/SUO": {
+          "Type": 3,
+          "binary": "/v8ASwDkAHkAdADkACAAbgDkAGkAdADkACAAYQBzAGUAdAB1AGsAcwBpAGEALAAgAGsAdQBuACAAbAB1AG8AdAAgAGwA5ABoAGkAbgBuAOQAIABuAOQAeQB0APYAcwB0AOQAIABsAHUAawBlAG0AaQBzAGUAZQBuACwAIABzAOQAaABrAPYAcABvAHMAdABpAGkAbgAgAGoAYQAgAEkAbgB0AGUAcgBuAGUAdABpAGkAbgAgAHQAYQByAGsAbwBpAHQAZQB0AHQAdQBqAGEAIABBAGQAbwBiAGUAIABQAEQARgAgAC0AZABvAGsAdQBtAGUAbgB0AHQAZQBqAGEALgAgAEwAdQBvAGQAdQB0ACAAUABEAEYALQBkAG8AawB1AG0AZQBuAHQAaQB0ACAAdgBvAGkAZABhAGEAbgAgAGEAdgBhAHQAYQAgAEEAYwByAG8AYgBhAHQAaQBsAGwAYQAgAGoAYQAgAEEAZABvAGIAZQAgAFIAZQBhAGQAZQByACAANgAuADAAOgBsAGwAYQAgAGoAYQAgAHUAdQBkAGUAbQBtAGkAbABsAGEALg=="
+        },
+        "/SVE": {
+          "Type": 3,
+          "binary": "/v8AWwBNAGkAbgBzAHQAYQAgAGYAaQBsAHMAdABvAHIAbABlAGsAXQAgAGEAbgBwAGEAcwBzAGEAZAAgAGYA9gByACAATQBlAHQAcgBvACAAcABkAGYALQB0AGkAZABuAGkAbgBn"
+        },
+        "/TUR": {
+          "Type": 3,
+          "binary": "/v8ARQBrAHIAYQBuACAA/ABzAHQA/AAgAGcA9gByAPwAbgD8AG0A/AAsACAAZQAtAHAAbwBzAHQAYQAgAHYAZQAgAGkAbgB0AGUAcgBuAGUAdAAgAGkA5wBpAG4AIABlAG4AIAB1AHkAZwB1AG4AIABBAGQAbwBiAGUAIABQAEQARgAgAGIAZQBsAGcAZQBsAGUAcgBpACAAbwBsAHUBXwB0AHUAcgBtAGEAawAgAGkA5wBpAG4AIABiAHUAIABhAHkAYQByAGwAYQByATEAIABrAHUAbABsAGEAbgExAG4ALgAgACAATwBsAHUBXwB0AHUAcgB1AGwAYQBuACAAUABEAEYAIABiAGUAbABnAGUAbABlAHIAaQAgAEEAYwByAG8AYgBhAHQAIAB2AGUAIABBAGMAcgBvAGIAYQB0ACAAUgBlAGEAZABlAHIAIAA2AC4AMAAgAHYAZQAgAHMAbwBuAHIAYQBzATEAbgBkAGEAawBpACAAcwD8AHIA/ABtAGwAZQByAGwAZQAgAGEA5wExAGwAYQBiAGkAbABpAHIALg=="
+        },
+        "/UKR": {
+          "Type": 3,
+          "binary": "/v8EEgQ4BDoEPgRABDgEQQRCBD4EMgRDBDkEQgQ1ACAERgRWACAEPwQwBEAEMAQ8BDUEQgRABDgAIAQ0BDsETwAgBEEEQgQyBD4EQAQ1BD0EPQRPACAENAQ+BDoEQwQ8BDUEPQRCBFYEMgAgAEEAZABvAGIAZQAgAFAARABGACwAIARPBDoEVgQ9BDAEOQQ6BEAEMARJBDUAIAQ/BFYENARFBD4ENARPBEIETAAgBDQEOwRPACAEPwQ1BEAENQQzBDsETwQ0BEMAIAQ3ACAENQQ6BEAEMAQ9BEMAIARCBDAAIAQGBD0EQgQ1BEAEPQQ1BEIEQwAuACAAIAQhBEIEMgQ+BEAENQQ9BFYAIAQ0BD4EOgRDBDwENQQ9BEIEOAAgAFAARABGACAEPAQ+BDYEPQQwACAEMgRWBDQEOgRABDgEQgQ4ACAEQwAgAEEAYwByAG8AYgBhAHQAIARCBDAAIABBAGQAbwBiAGUAIABSAGUAYQBkAGUAcgAgADYALgAwACAEMAQxBD4AIAQ/BFYENwQ9BFYESAQ+BFcAIAQyBDUEQARBBFYEVwAu"
+        }
+      }
+    },
+    "/DetectBlends": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/DetectCurves": {
+      "Type": 5,
+      "float": 0.1
+    },
+    "/DoThumbnails": {
+      "Type": 2
+    },
+    "/DownsampleColorImages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/DownsampleGrayImages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/DownsampleMonoImages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/EmbedAllFonts": {
+      "Type": 2
+    },
+    "/EmbedJobOptions": {
+      "Type": 2
+    },
+    "/EmbedOpenType": {
+      "Type": 2
+    },
+    "/EmitDSCWarnings": {
+      "Type": 2
+    },
+    "/EncodeColorImages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/EncodeGrayImages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/EncodeMonoImages": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/EndPage": {
+      "Type": 6,
+      "integer": -1
+    },
+    "/GrayACSImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/HSamples": {
+          "Type": 1,
+          "array": [
+            {
+              "Type": 6,
+              "integer": 2
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 2
+            }
+          ]
+        },
+        "/QFactor": {
+          "Type": 5,
+          "float": 1.3
+        },
+        "/VSamples": {
+          "Type": 1,
+          "array": [
+            {
+              "Type": 6,
+              "integer": 2
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 2
+            }
+          ]
+        }
+      }
+    },
+    "/GrayImageAutoFilterStrategy": {
+      "Type": 7,
+      "literal": "/JPEG"
+    },
+    "/GrayImageDepth": {
+      "Type": 6,
+      "integer": -1
+    },
+    "/GrayImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/HSamples": {
+          "Type": 1,
+          "array": [
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            }
+          ]
+        },
+        "/QFactor": {
+          "Type": 5,
+          "float": 0.15
+        },
+        "/VSamples": {
+          "Type": 1,
+          "array": [
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            },
+            {
+              "Type": 6,
+              "integer": 1
+            }
+          ]
+        }
+      }
+    },
+    "/GrayImageDownsampleThreshold": {
+      "Type": 5,
+      "float": 1.5
+    },
+    "/GrayImageDownsampleType": {
+      "Type": 7,
+      "literal": "/Bicubic"
+    },
+    "/GrayImageFilter": {
+      "Type": 7,
+      "literal": "/DCTEncode"
+    },
+    "/GrayImageMinDownsampleDepth": {
+      "Type": 6,
+      "integer": 2
+    },
+    "/GrayImageMinResolution": {
+      "Type": 6,
+      "integer": 150
+    },
+    "/GrayImageMinResolutionPolicy": {
+      "Type": 7,
+      "literal": "/OK"
+    },
+    "/GrayImageResolution": {
+      "Type": 6,
+      "integer": 150
+    },
+    "/ImageMemory": {
+      "Type": 6,
+      "integer": 1048576
+    },
+    "/JPEG2000ColorACSImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/Quality": {
+          "Type": 6,
+          "integer": 30
+        },
+        "/TileHeight": {
+          "Type": 6,
+          "integer": 256
+        },
+        "/TileWidth": {
+          "Type": 6,
+          "integer": 256
+        }
+      }
+    },
+    "/JPEG2000ColorImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/Quality": {
+          "Type": 6,
+          "integer": 30
+        },
+        "/TileHeight": {
+          "Type": 6,
+          "integer": 256
+        },
+        "/TileWidth": {
+          "Type": 6,
+          "integer": 256
+        }
+      }
+    },
+    "/JPEG2000GrayACSImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/Quality": {
+          "Type": 6,
+          "integer": 30
+        },
+        "/TileHeight": {
+          "Type": 6,
+          "integer": 256
+        },
+        "/TileWidth": {
+          "Type": 6,
+          "integer": 256
+        }
+      }
+    },
+    "/JPEG2000GrayImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/Quality": {
+          "Type": 6,
+          "integer": 30
+        },
+        "/TileHeight": {
+          "Type": 6,
+          "integer": 256
+        },
+        "/TileWidth": {
+          "Type": 6,
+          "integer": 256
+        }
+      }
+    },
+    "/LockDistillerParams": {
+      "Type": 2
+    },
+    "/MaxSubsetPct": {
+      "Type": 6,
+      "integer": 100
+    },
+    "/MonoImageDepth": {
+      "Type": 6,
+      "integer": -1
+    },
+    "/MonoImageDict": {
+      "Type": 4,
+      "dictionary": {
+        "/K": {
+          "Type": 6,
+          "integer": -1
+        }
+      }
+    },
+    "/MonoImageDownsampleThreshold": {
+      "Type": 5,
+      "float": 1.5
+    },
+    "/MonoImageDownsampleType": {
+      "Type": 7,
+      "literal": "/Bicubic"
+    },
+    "/MonoImageFilter": {
+      "Type": 7,
+      "literal": "/CCITTFaxEncode"
+    },
+    "/MonoImageMinResolution": {
+      "Type": 6,
+      "integer": 300
+    },
+    "/MonoImageMinResolutionPolicy": {
+      "Type": 7,
+      "literal": "/OK"
+    },
+    "/MonoImageResolution": {
+      "Type": 6,
+      "integer": 300
+    },
+    "/Namespace": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 0,
+          "string": "Adobe"
+        },
+        {
+          "Type": 0,
+          "string": "Common"
+        },
+        {
+          "Type": 0,
+          "string": "1.0"
+        }
+      ]
+    },
+    "/NeverEmbed": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 2,
+          "boolean": true
+        }
+      ]
+    },
+    "/OPM": {
+      "Type": 6,
+      "integer": 1
+    },
+    "/Optimize": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/OtherNamespaces": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 4,
+          "dictionary": {
+            "/AsReaderSpreads": {
+              "Type": 2
+            },
+            "/CropImagesToFrames": {
+              "Type": 2,
+              "boolean": true
+            },
+            "/ErrorControl": {
+              "Type": 7,
+              "literal": "/WarnAndContinue"
+            },
+            "/FlattenerIgnoreSpreadOverrides": {
+              "Type": 2
+            },
+            "/IncludeGuidesGrids": {
+              "Type": 2
+            },
+            "/IncludeNonPrinting": {
+              "Type": 2
+            },
+            "/IncludeSlug": {
+              "Type": 2
+            },
+            "/Namespace": {
+              "Type": 1,
+              "array": [
+                {
+                  "Type": 0,
+                  "string": "Adobe"
+                },
+                {
+                  "Type": 0,
+                  "string": "InDesign"
+                },
+                {
+                  "Type": 0,
+                  "string": "4.0"
+                }
+              ]
+            },
+            "/OmitPlacedBitmaps": {
+              "Type": 2
+            },
+            "/OmitPlacedEPS": {
+              "Type": 2
+            },
+            "/OmitPlacedPDF": {
+              "Type": 2
+            },
+            "/SimulateOverprint": {
+              "Type": 7,
+              "literal": "/Legacy"
+            }
+          }
+        },
+        {
+          "Type": 4,
+          "dictionary": {
+            "/AddBleedMarks": {
+              "Type": 2
+            },
+            "/AddColorBars": {
+              "Type": 2
+            },
+            "/AddCropMarks": {
+              "Type": 2
+            },
+            "/AddPageInfo": {
+              "Type": 2
+            },
+            "/AddRegMarks": {
+              "Type": 2
+            },
+            "/BleedOffset": {
+              "Type": 1,
+              "array": [
+                {
+                  "Type": 6
+                },
+                {
+                  "Type": 6
+                },
+                {
+                  "Type": 6
+                },
+                {
+                  "Type": 6
+                }
+              ]
+            },
+            "/ConvertColors": {
+              "Type": 7,
+              "literal": "/ConvertToRGB"
+            },
+            "/DestinationProfileName": {
+              "Type": 0,
+              "string": "sRGB IEC61966-2.1"
+            },
+            "/DestinationProfileSelector": {
+              "Type": 7,
+              "literal": "/UseName"
+            },
+            "/Downsample16BitImages": {
+              "Type": 2,
+              "boolean": true
+            },
+            "/FlattenerPreset": {
+              "Type": 4,
+              "dictionary": {
+                "/PresetSelector": {
+                  "Type": 7,
+                  "literal": "/MediumResolution"
+                }
+              }
+            },
+            "/FormElements": {
+              "Type": 2
+            },
+            "/GenerateStructure": {
+              "Type": 2
+            },
+            "/IncludeBookmarks": {
+              "Type": 2
+            },
+            "/IncludeHyperlinks": {
+              "Type": 2
+            },
+            "/IncludeInteractive": {
+              "Type": 2
+            },
+            "/IncludeLayers": {
+              "Type": 2
+            },
+            "/IncludeProfiles": {
+              "Type": 2
+            },
+            "/MarksOffset": {
+              "Type": 6,
+              "integer": 6
+            },
+            "/MarksWeight": {
+              "Type": 5,
+              "float": 0.25
+            },
+            "/MultimediaHandling": {
+              "Type": 7,
+              "literal": "/UseObjectSettings"
+            },
+            "/Namespace": {
+              "Type": 1,
+              "array": [
+                {
+                  "Type": 0,
+                  "string": "Adobe"
+                },
+                {
+                  "Type": 0,
+                  "string": "CreativeSuite"
+                },
+                {
+                  "Type": 0,
+                  "string": "2.0"
+                }
+              ]
+            },
+            "/PDFXOutputIntentProfileSelector": {
+              "Type": 7,
+              "literal": "/UseName"
+            },
+            "/PageMarksFile": {
+              "Type": 7,
+              "literal": "/RomanDefault"
+            },
+            "/PreserveEditing": {
+              "Type": 2
+            },
+            "/UntaggedCMYKHandling": {
+              "Type": 7,
+              "literal": "/UseDocumentProfile"
+            },
+            "/UntaggedRGBHandling": {
+              "Type": 7,
+              "literal": "/UseDocumentProfile"
+            },
+            "/UseDocumentBleed": {
+              "Type": 2
+            }
+          }
+        },
+        {
+          "Type": 4,
+          "dictionary": {
+            "/AllowImageBreaks": {
+              "Type": 2,
+              "boolean": true
+            },
+            "/AllowTableBreaks": {
+              "Type": 2,
+              "boolean": true
+            },
+            "/ExpandPage": {
+              "Type": 2
+            },
+            "/HonorBaseURL": {
+              "Type": 2,
+              "boolean": true
+            },
+            "/HonorRolloverEffect": {
+              "Type": 2
+            },
+            "/IgnoreHTMLPageBreaks": {
+              "Type": 2
+            },
+            "/IncludeHeaderFooter": {
+              "Type": 2
+            },
+            "/MarginOffset": {
+              "Type": 1,
+              "array": [
+                {
+                  "Type": 6
+                },
+                {
+                  "Type": 6
+                },
+                {
+                  "Type": 6
+                },
+                {
+                  "Type": 6
+                }
+              ]
+            },
+            "/MetadataAuthor": {
+              "Type": 0
+            },
+            "/MetadataKeywords": {
+              "Type": 0
+            },
+            "/MetadataSubject": {
+              "Type": 0
+            },
+            "/MetadataTitle": {
+              "Type": 0
+            },
+            "/MetricPageSize": {
+              "Type": 1,
+              "array": [
+                {
+                  "Type": 6
+                },
+                {
+                  "Type": 6
+                }
+              ]
+            },
+            "/MetricUnit": {
+              "Type": 7,
+              "literal": "/inch"
+            },
+            "/MobileCompatible": {
+              "Type": 6
+            },
+            "/Namespace": {
+              "Type": 1,
+              "array": [
+                {
+                  "Type": 0,
+                  "string": "Adobe"
+                },
+                {
+                  "Type": 0,
+                  "string": "GoLive"
+                },
+                {
+                  "Type": 0,
+                  "string": "8.0"
+                }
+              ]
+            },
+            "/OpenZoomToHTMLFontSize": {
+              "Type": 2
+            },
+            "/PageOrientation": {
+              "Type": 7,
+              "literal": "/Portrait"
+            },
+            "/RemoveBackground": {
+              "Type": 2
+            },
+            "/ShrinkContent": {
+              "Type": 2,
+              "boolean": true
+            },
+            "/TreatColorsAs": {
+              "Type": 7,
+              "literal": "/MainMonitorColors"
+            },
+            "/UseEmbeddedProfiles": {
+              "Type": 2
+            },
+            "/UseHTMLTitleAsMetadata": {
+              "Type": 2,
+              "boolean": true
+            }
+          }
+        }
+      ]
+    },
+    "/PDFX1aCheck": {
+      "Type": 2
+    },
+    "/PDFX3Check": {
+      "Type": 2
+    },
+    "/PDFXBleedBoxToTrimBoxOffset": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 5
+        },
+        {
+          "Type": 5
+        },
+        {
+          "Type": 5
+        },
+        {
+          "Type": 5
+        }
+      ]
+    },
+    "/PDFXCompliantPDFOnly": {
+      "Type": 2
+    },
+    "/PDFXNoTrimBoxError": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/PDFXOutputCondition": {
+      "Type": 0
+    },
+    "/PDFXOutputConditionIdentifier": {
+      "Type": 0
+    },
+    "/PDFXOutputIntentProfile": {
+      "Type": 0,
+      "string": "None"
+    },
+    "/PDFXRegistryName": {
+      "Type": 0
+    },
+    "/PDFXSetBleedBoxToMediaBox": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/PDFXTrapped": {
+      "Type": 7,
+      "literal": "/False"
+    },
+    "/PDFXTrimBoxToMediaBoxOffset": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 5
+        },
+        {
+          "Type": 5
+        },
+        {
+          "Type": 5
+        },
+        {
+          "Type": 5
+        }
+      ]
+    },
+    "/ParseDSCComments": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/ParseDSCCommentsForDocInfo": {
+      "Type": 2
+    },
+    "/ParseICCProfilesInComments": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/PassThroughJPEGImages": {
+      "Type": 2
+    },
+    "/PreserveCopyPage": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/PreserveDICMYKValues": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/PreserveEPSInfo": {
+      "Type": 2
+    },
+    "/PreserveFlatness": {
+      "Type": 2
+    },
+    "/PreserveHalftoneInfo": {
+      "Type": 2
+    },
+    "/PreserveOPIComments": {
+      "Type": 2
+    },
+    "/PreserveOverprintSettings": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/StartPage": {
+      "Type": 6,
+      "integer": 1
+    },
+    "/SubsetFonts": {
+      "Type": 2,
+      "boolean": true
+    },
+    "/TransferFunctionInfo": {
+      "Type": 7,
+      "literal": "/Apply"
+    },
+    "/UCRandBGInfo": {
+      "Type": 7,
+      "literal": "/Remove"
+    },
+    "/UsePrologue": {
+      "Type": 2
+    },
+    "/sRGBProfile": {
+      "Type": 0,
+      "string": "sRGB IEC61966-2.1"
+    }
+  },
+  "setpagedevice": {
+    "/HWResolution": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 6,
+          "integer": 600
+        },
+        {
+          "Type": 6,
+          "integer": 600
+        }
+      ]
+    },
+    "/PageSize": {
+      "Type": 1,
+      "array": [
+        {
+          "Type": 5,
+          "float": 612
+        },
+        {
+          "Type": 5,
+          "float": 792
+        }
+      ]
+    }
+  }
+}
