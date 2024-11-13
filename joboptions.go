@@ -14,8 +14,13 @@ import (
 	"golang.org/x/text/unicode/norm"
 )
 
+// Literal is a special kind of value in a joboptions file that starts with a
+// slash. F.ex. /AntiAliasGrayImages or /CalRGBProfile. They should be treated
+// as identifiers rather than a free text value.
 type Literal string
 
+// ValueType is used to identify the different types of values that can exist in
+// a joboptions file.
 type ValueType int
 
 const (
@@ -29,16 +34,23 @@ const (
 	ValueLiteral
 )
 
+// Value is used to represent the different types of values that can occur in a
+// joboptions file. The actual concrete field (Array, Boolean, Float et.c.) will
+// be populated based on the Type of the value.
 type Value struct {
-	Type       ValueType
+	Type       ValueType  `json:"type"`
 	Array      []Value    `json:"array,omitempty"`
 	Boolean    bool       `json:"boolean,omitempty"`
-	Binary     []byte     `json:"binary,omitempty"`
 	Dictionary Dictionary `json:"dictionary,omitempty"`
 	Float      float64    `json:"float,omitempty"`
 	Integer    int        `json:"integer,omitempty"`
-	Literal    Literal    `json:"literal,omitempty"`
 	String     string     `json:"string,omitempty"`
+	// Literal is the kind of value in a joboptions file that starts with a
+	// slash. F.ex. /AntiAliasGrayImages or /CalRGBProfile.
+	Literal Literal `json:"literal,omitempty"`
+	// Binary data is represented as a hex encoded string in a joboptions
+	// file, this is the decoded version of that data.
+	Binary []byte `json:"binary,omitempty"`
 }
 
 func (v Value) StringFromUTF16() (string, error) {
@@ -59,10 +71,16 @@ func (v Value) StringFromUTF16() (string, error) {
 	return string(data), nil
 }
 
+// Dictionary is a set of Values keyed by a literal.
 type Dictionary map[Literal]Value
 
+// Parameters is a collection of named dictionaries. This is the top level
+// representation of a joboptions file.
+//
+// Common dictionary names are "setdistillerparams" and "setpagedevice".
 type Parameters map[string]Dictionary
 
+// Parse a joboptions payload and return the parameter set.
 func Parse(data []byte) (Parameters, error) {
 	p := parser.NewScanner(data)
 

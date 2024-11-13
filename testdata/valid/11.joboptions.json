@@ -1,122 +1,122 @@
 {
   "setdistillerparams": {
     "/ASCII85EncodePages": {
-      "Type": 2
+      "type": 2
     },
     "/AllowPSXObjects": {
-      "Type": 2
+      "type": 2
     },
     "/AllowTransparency": {
-      "Type": 2
+      "type": 2
     },
     "/AlwaysEmbed": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 2,
+          "type": 2,
           "boolean": true
         }
       ]
     },
     "/AntiAliasColorImages": {
-      "Type": 2
+      "type": 2
     },
     "/AntiAliasGrayImages": {
-      "Type": 2
+      "type": 2
     },
     "/AntiAliasMonoImages": {
-      "Type": 2
+      "type": 2
     },
     "/AutoFilterColorImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/AutoFilterGrayImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/AutoPositionEPSFiles": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/AutoRotatePages": {
-      "Type": 7,
+      "type": 7,
       "literal": "/None"
     },
     "/Binding": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Left"
     },
     "/CalCMYKProfile": {
-      "Type": 0,
+      "type": 0,
       "string": "fargpressen_v3.icm"
     },
     "/CalGrayProfile": {
-      "Type": 0,
+      "type": 0,
       "string": "Dot Gain 20%"
     },
     "/CalRGBProfile": {
-      "Type": 0,
+      "type": 0,
       "string": "Adobe RGB (1998)"
     },
     "/CannotEmbedFontPolicy": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Warning"
     },
     "/CheckCompliance": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 7,
+          "type": 7,
           "literal": "/None"
         }
       ]
     },
     "/ColorACSImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/HSamples": {
-          "Type": 1,
+          "type": 1,
           "array": [
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             }
           ]
         },
         "/QFactor": {
-          "Type": 5,
+          "type": 5,
           "float": 0.15
         },
         "/VSamples": {
-          "Type": 1,
+          "type": 1,
           "array": [
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             }
           ]
@@ -124,62 +124,62 @@
       }
     },
     "/ColorConversionStrategy": {
-      "Type": 7,
+      "type": 7,
       "literal": "/sRGB"
     },
     "/ColorImageAutoFilterStrategy": {
-      "Type": 7,
+      "type": 7,
       "literal": "/JPEG"
     },
     "/ColorImageDepth": {
-      "Type": 6,
+      "type": 6,
       "integer": -1
     },
     "/ColorImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/HSamples": {
-          "Type": 1,
+          "type": 1,
           "array": [
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             }
           ]
         },
         "/QFactor": {
-          "Type": 5,
+          "type": 5,
           "float": 0.15
         },
         "/VSamples": {
-          "Type": 1,
+          "type": 1,
           "array": [
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             }
           ]
@@ -187,180 +187,180 @@
       }
     },
     "/ColorImageDownsampleThreshold": {
-      "Type": 5,
+      "type": 5,
       "float": 1.5
     },
     "/ColorImageDownsampleType": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Bicubic"
     },
     "/ColorImageFilter": {
-      "Type": 7,
+      "type": 7,
       "literal": "/DCTEncode"
     },
     "/ColorImageMinDownsampleDepth": {
-      "Type": 6,
+      "type": 6,
       "integer": 1
     },
     "/ColorImageMinResolution": {
-      "Type": 6,
+      "type": 6,
       "integer": 300
     },
     "/ColorImageMinResolutionPolicy": {
-      "Type": 7,
+      "type": 7,
       "literal": "/OK"
     },
     "/ColorImageResolution": {
-      "Type": 6,
+      "type": 6,
       "integer": 200
     },
     "/ColorSettingsFile": {
-      "Type": 0
+      "type": 0
     },
     "/CompatibilityLevel": {
-      "Type": 5,
+      "type": 5,
       "float": 1.4
     },
     "/CompressObjects": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Tags"
     },
     "/CompressPages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/ConvertImagesToIndexed": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/CreateJDFFile": {
-      "Type": 2
+      "type": 2
     },
     "/CreateJobTicket": {
-      "Type": 2
+      "type": 2
     },
     "/CropColorImages": {
-      "Type": 2
+      "type": 2
     },
     "/CropGrayImages": {
-      "Type": 2
+      "type": 2
     },
     "/CropMonoImages": {
-      "Type": 2
+      "type": 2
     },
     "/DSCReportingLevel": {
-      "Type": 6
+      "type": 6
     },
     "/DefaultRenderingIntent": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Default"
     },
     "/Description": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/SVE": {
-          "Type": 3,
+          "type": 3,
           "binary": "//5TAGsAYQBwAGEAZAAgAGYA9gByACAAbABlAHYAZQByAGEAbgBzACAAYQB2ACAAcAByAGkAbgB0AHMAaQBkAG8AcgAgAGkAIABSAEcAQgAuACAASwBvAG4AdgBlAHIAdABlAHIAYQByACAAZgDkAHIAZwByAHkAbQBkACAAdABpAGwAbAAgAEEAZABvAGIAZQAgAFIARwBCACAAKAAxADkAOQA4ACkALAAgAGYA9gByAHUAdABzAGEAdAB0ACAAYQB0AHQAIABpAG4AcAB1AHQAIABoAGEAcgAgAGkAbgBiAOQAZABkAGEAZABlACAAcAByAG8AZgBpAGwAZQByAC4AIABCAGkAbABkAGUAcgAgAGkAIAAyADAAMAAgAHAAcABpAC4AIABKAPYAcgBnAGUAbgAgAFMAdABhAGgAbABlACAAMgAwADEANwAtADAANQAtADEAMAA="
         }
       }
     },
     "/DetectBlends": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/DetectCurves": {
-      "Type": 6
+      "type": 6
     },
     "/DoThumbnails": {
-      "Type": 2
+      "type": 2
     },
     "/DownsampleColorImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/DownsampleGrayImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/DownsampleMonoImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/EmbedAllFonts": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/EmbedJobOptions": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/EmbedOpenType": {
-      "Type": 2
+      "type": 2
     },
     "/EmitDSCWarnings": {
-      "Type": 2
+      "type": 2
     },
     "/EncodeColorImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/EncodeGrayImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/EncodeMonoImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/EndPage": {
-      "Type": 6,
+      "type": 6,
       "integer": -1
     },
     "/GrayACSImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/HSamples": {
-          "Type": 1,
+          "type": 1,
           "array": [
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             }
           ]
         },
         "/QFactor": {
-          "Type": 5,
+          "type": 5,
           "float": 0.15
         },
         "/VSamples": {
-          "Type": 1,
+          "type": 1,
           "array": [
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             }
           ]
@@ -368,58 +368,58 @@
       }
     },
     "/GrayImageAutoFilterStrategy": {
-      "Type": 7,
+      "type": 7,
       "literal": "/JPEG"
     },
     "/GrayImageDepth": {
-      "Type": 6,
+      "type": 6,
       "integer": -1
     },
     "/GrayImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/HSamples": {
-          "Type": 1,
+          "type": 1,
           "array": [
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             }
           ]
         },
         "/QFactor": {
-          "Type": 5,
+          "type": 5,
           "float": 0.15
         },
         "/VSamples": {
-          "Type": 1,
+          "type": 1,
           "array": [
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             },
             {
-              "Type": 6,
+              "type": 6,
               "integer": 1
             }
           ]
@@ -427,493 +427,493 @@
       }
     },
     "/GrayImageDownsampleThreshold": {
-      "Type": 5,
+      "type": 5,
       "float": 1.5
     },
     "/GrayImageDownsampleType": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Bicubic"
     },
     "/GrayImageFilter": {
-      "Type": 7,
+      "type": 7,
       "literal": "/DCTEncode"
     },
     "/GrayImageMinDownsampleDepth": {
-      "Type": 6,
+      "type": 6,
       "integer": 2
     },
     "/GrayImageMinResolution": {
-      "Type": 6,
+      "type": 6,
       "integer": 300
     },
     "/GrayImageMinResolutionPolicy": {
-      "Type": 7,
+      "type": 7,
       "literal": "/OK"
     },
     "/GrayImageResolution": {
-      "Type": 6,
+      "type": 6,
       "integer": 200
     },
     "/ImageMemory": {
-      "Type": 6,
+      "type": 6,
       "integer": 1048576
     },
     "/JPEG2000ColorACSImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/Quality": {
-          "Type": 6,
+          "type": 6,
           "integer": 30
         },
         "/TileHeight": {
-          "Type": 6,
+          "type": 6,
           "integer": 256
         },
         "/TileWidth": {
-          "Type": 6,
+          "type": 6,
           "integer": 256
         }
       }
     },
     "/JPEG2000ColorImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/Quality": {
-          "Type": 6,
+          "type": 6,
           "integer": 30
         },
         "/TileHeight": {
-          "Type": 6,
+          "type": 6,
           "integer": 256
         },
         "/TileWidth": {
-          "Type": 6,
+          "type": 6,
           "integer": 256
         }
       }
     },
     "/JPEG2000GrayACSImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/Quality": {
-          "Type": 6,
+          "type": 6,
           "integer": 30
         },
         "/TileHeight": {
-          "Type": 6,
+          "type": 6,
           "integer": 256
         },
         "/TileWidth": {
-          "Type": 6,
+          "type": 6,
           "integer": 256
         }
       }
     },
     "/JPEG2000GrayImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/Quality": {
-          "Type": 6,
+          "type": 6,
           "integer": 30
         },
         "/TileHeight": {
-          "Type": 6,
+          "type": 6,
           "integer": 256
         },
         "/TileWidth": {
-          "Type": 6,
+          "type": 6,
           "integer": 256
         }
       }
     },
     "/LockDistillerParams": {
-      "Type": 2
+      "type": 2
     },
     "/MaxSubsetPct": {
-      "Type": 6,
+      "type": 6,
       "integer": 100
     },
     "/MonoImageDepth": {
-      "Type": 6,
+      "type": 6,
       "integer": -1
     },
     "/MonoImageDict": {
-      "Type": 4,
+      "type": 4,
       "dictionary": {
         "/K": {
-          "Type": 6,
+          "type": 6,
           "integer": -1
         }
       }
     },
     "/MonoImageDownsampleThreshold": {
-      "Type": 5,
+      "type": 5,
       "float": 1.5
     },
     "/MonoImageDownsampleType": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Bicubic"
     },
     "/MonoImageFilter": {
-      "Type": 7,
+      "type": 7,
       "literal": "/CCITTFaxEncode"
     },
     "/MonoImageMinResolution": {
-      "Type": 6,
+      "type": 6,
       "integer": 1200
     },
     "/MonoImageMinResolutionPolicy": {
-      "Type": 7,
+      "type": 7,
       "literal": "/OK"
     },
     "/MonoImageResolution": {
-      "Type": 6,
+      "type": 6,
       "integer": 1200
     },
     "/Namespace": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 0,
+          "type": 0,
           "string": "Adobe"
         },
         {
-          "Type": 0,
+          "type": 0,
           "string": "Common"
         },
         {
-          "Type": 0,
+          "type": 0,
           "string": "1.0"
         }
       ]
     },
     "/NeverEmbed": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 2,
+          "type": 2,
           "boolean": true
         }
       ]
     },
     "/OPM": {
-      "Type": 6,
+      "type": 6,
       "integer": 1
     },
     "/Optimize": {
-      "Type": 2
+      "type": 2
     },
     "/OtherNamespaces": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 4,
+          "type": 4,
           "dictionary": {
             "/AsReaderSpreads": {
-              "Type": 2
+              "type": 2
             },
             "/CropImagesToFrames": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             },
             "/ErrorControl": {
-              "Type": 7,
+              "type": 7,
               "literal": "/WarnAndContinue"
             },
             "/FlattenerIgnoreSpreadOverrides": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeGuidesGrids": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeNonPrinting": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeSlug": {
-              "Type": 2
+              "type": 2
             },
             "/Namespace": {
-              "Type": 1,
+              "type": 1,
               "array": [
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "Adobe"
                 },
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "InDesign"
                 },
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "4.0"
                 }
               ]
             },
             "/OmitPlacedBitmaps": {
-              "Type": 2
+              "type": 2
             },
             "/OmitPlacedEPS": {
-              "Type": 2
+              "type": 2
             },
             "/OmitPlacedPDF": {
-              "Type": 2
+              "type": 2
             },
             "/SimulateOverprint": {
-              "Type": 7,
+              "type": 7,
               "literal": "/Legacy"
             }
           }
         },
         {
-          "Type": 4,
+          "type": 4,
           "dictionary": {
             "/AddBleedMarks": {
-              "Type": 2
+              "type": 2
             },
             "/AddColorBars": {
-              "Type": 2
+              "type": 2
             },
             "/AddCropMarks": {
-              "Type": 2
+              "type": 2
             },
             "/AddPageInfo": {
-              "Type": 2
+              "type": 2
             },
             "/AddRegMarks": {
-              "Type": 2
+              "type": 2
             },
             "/BleedOffset": {
-              "Type": 1,
+              "type": 1,
               "array": [
                 {
-                  "Type": 6
+                  "type": 6
                 },
                 {
-                  "Type": 6
+                  "type": 6
                 },
                 {
-                  "Type": 6
+                  "type": 6
                 },
                 {
-                  "Type": 6
+                  "type": 6
                 }
               ]
             },
             "/ConvertColors": {
-              "Type": 7,
+              "type": 7,
               "literal": "/ConvertToRGB"
             },
             "/DestinationProfileName": {
-              "Type": 0,
+              "type": 0,
               "string": "Adobe RGB (1998)"
             },
             "/DestinationProfileSelector": {
-              "Type": 7,
+              "type": 7,
               "literal": "/UseName"
             },
             "/Downsample16BitImages": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             },
             "/FlattenerPreset": {
-              "Type": 4,
+              "type": 4,
               "dictionary": {
                 "/PresetSelector": {
-                  "Type": 7,
+                  "type": 7,
                   "literal": "/MediumResolution"
                 }
               }
             },
             "/FormElements": {
-              "Type": 2
+              "type": 2
             },
             "/GenerateStructure": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeBookmarks": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeHyperlinks": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeInteractive": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeLayers": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeProfiles": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             },
             "/MarksOffset": {
-              "Type": 6,
+              "type": 6,
               "integer": 6
             },
             "/MarksWeight": {
-              "Type": 5,
+              "type": 5,
               "float": 0.25
             },
             "/MultimediaHandling": {
-              "Type": 7,
+              "type": 7,
               "literal": "/UseObjectSettings"
             },
             "/Namespace": {
-              "Type": 1,
+              "type": 1,
               "array": [
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "Adobe"
                 },
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "CreativeSuite"
                 },
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "2.0"
                 }
               ]
             },
             "/PDFXOutputIntentProfileSelector": {
-              "Type": 7,
+              "type": 7,
               "literal": "/DocumentCMYK"
             },
             "/PageMarksFile": {
-              "Type": 7,
+              "type": 7,
               "literal": "/RomanDefault"
             },
             "/PreserveEditing": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             },
             "/UntaggedCMYKHandling": {
-              "Type": 7,
+              "type": 7,
               "literal": "/UseDocumentProfile"
             },
             "/UntaggedRGBHandling": {
-              "Type": 7,
+              "type": 7,
               "literal": "/UseDocumentProfile"
             },
             "/UseDocumentBleed": {
-              "Type": 2
+              "type": 2
             }
           }
         },
         {
-          "Type": 4,
+          "type": 4,
           "dictionary": {
             "/AllowImageBreaks": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             },
             "/AllowTableBreaks": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             },
             "/ExpandPage": {
-              "Type": 2
+              "type": 2
             },
             "/HonorBaseURL": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             },
             "/HonorRolloverEffect": {
-              "Type": 2
+              "type": 2
             },
             "/IgnoreHTMLPageBreaks": {
-              "Type": 2
+              "type": 2
             },
             "/IncludeHeaderFooter": {
-              "Type": 2
+              "type": 2
             },
             "/MarginOffset": {
-              "Type": 1,
+              "type": 1,
               "array": [
                 {
-                  "Type": 6
+                  "type": 6
                 },
                 {
-                  "Type": 6
+                  "type": 6
                 },
                 {
-                  "Type": 6
+                  "type": 6
                 },
                 {
-                  "Type": 6
+                  "type": 6
                 }
               ]
             },
             "/MetadataAuthor": {
-              "Type": 0
+              "type": 0
             },
             "/MetadataKeywords": {
-              "Type": 0
+              "type": 0
             },
             "/MetadataSubject": {
-              "Type": 0
+              "type": 0
             },
             "/MetadataTitle": {
-              "Type": 0
+              "type": 0
             },
             "/MetricPageSize": {
-              "Type": 1,
+              "type": 1,
               "array": [
                 {
-                  "Type": 6
+                  "type": 6
                 },
                 {
-                  "Type": 6
+                  "type": 6
                 }
               ]
             },
             "/MetricUnit": {
-              "Type": 7,
+              "type": 7,
               "literal": "/inch"
             },
             "/MobileCompatible": {
-              "Type": 6
+              "type": 6
             },
             "/Namespace": {
-              "Type": 1,
+              "type": 1,
               "array": [
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "Adobe"
                 },
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "GoLive"
                 },
                 {
-                  "Type": 0,
+                  "type": 0,
                   "string": "8.0"
                 }
               ]
             },
             "/OpenZoomToHTMLFontSize": {
-              "Type": 2
+              "type": 2
             },
             "/PageOrientation": {
-              "Type": 7,
+              "type": 7,
               "literal": "/Portrait"
             },
             "/RemoveBackground": {
-              "Type": 2
+              "type": 2
             },
             "/ShrinkContent": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             },
             "/TreatColorsAs": {
-              "Type": 7,
+              "type": 7,
               "literal": "/MainMonitorColors"
             },
             "/UseEmbeddedProfiles": {
-              "Type": 2
+              "type": 2
             },
             "/UseHTMLTitleAsMetadata": {
-              "Type": 2,
+              "type": 2,
               "boolean": true
             }
           }
@@ -921,161 +921,161 @@
       ]
     },
     "/PDFX1aCheck": {
-      "Type": 2
+      "type": 2
     },
     "/PDFX3Check": {
-      "Type": 2
+      "type": 2
     },
     "/PDFXBleedBoxToTrimBoxOffset": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 6
+          "type": 6
         },
         {
-          "Type": 6
+          "type": 6
         },
         {
-          "Type": 6
+          "type": 6
         },
         {
-          "Type": 6
+          "type": 6
         }
       ]
     },
     "/PDFXCompliantPDFOnly": {
-      "Type": 2
+      "type": 2
     },
     "/PDFXNoTrimBoxError": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/PDFXOutputCondition": {
-      "Type": 0
+      "type": 0
     },
     "/PDFXOutputConditionIdentifier": {
-      "Type": 0
+      "type": 0
     },
     "/PDFXOutputIntentProfile": {
-      "Type": 0
+      "type": 0
     },
     "/PDFXRegistryName": {
-      "Type": 0
+      "type": 0
     },
     "/PDFXSetBleedBoxToMediaBox": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/PDFXTrapped": {
-      "Type": 7,
+      "type": 7,
       "literal": "/False"
     },
     "/PDFXTrimBoxToMediaBoxOffset": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 6
+          "type": 6
         },
         {
-          "Type": 6
+          "type": 6
         },
         {
-          "Type": 6
+          "type": 6
         },
         {
-          "Type": 6
+          "type": 6
         }
       ]
     },
     "/ParseDSCComments": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/ParseDSCCommentsForDocInfo": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/ParseICCProfilesInComments": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/PassThroughJPEGImages": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/PreserveCopyPage": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/PreserveDICMYKValues": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/PreserveEPSInfo": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/PreserveFlatness": {
-      "Type": 2
+      "type": 2
     },
     "/PreserveHalftoneInfo": {
-      "Type": 2
+      "type": 2
     },
     "/PreserveOPIComments": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/PreserveOverprintSettings": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/StartPage": {
-      "Type": 6,
+      "type": 6,
       "integer": 1
     },
     "/SubsetFonts": {
-      "Type": 2,
+      "type": 2,
       "boolean": true
     },
     "/TransferFunctionInfo": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Apply"
     },
     "/UCRandBGInfo": {
-      "Type": 7,
+      "type": 7,
       "literal": "/Preserve"
     },
     "/UsePrologue": {
-      "Type": 2
+      "type": 2
     },
     "/sRGBProfile": {
-      "Type": 0,
+      "type": 0,
       "string": "sRGB IEC61966-2.1"
     }
   },
   "setpagedevice": {
     "/HWResolution": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 6,
+          "type": 6,
           "integer": 2400
         },
         {
-          "Type": 6,
+          "type": 6,
           "integer": 2400
         }
       ]
     },
     "/PageSize": {
-      "Type": 1,
+      "type": 1,
       "array": [
         {
-          "Type": 5,
+          "type": 5,
           "float": 612
         },
         {
-          "Type": 5,
+          "type": 5,
           "float": 792
         }
       ]
